@@ -1,0 +1,12 @@
+{
+  "name": "email-verification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ilchovski98/email-verification.git",
+  "author": "ilchovski98 <ilchovski98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.1.8",
+    "underscore": "^1.13.2"
+  }
+}
